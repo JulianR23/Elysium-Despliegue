@@ -9,7 +9,7 @@ namespace Elysium_despliegue.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Nuevo mensaje con otro error";
+            return "Nuevo mensaje desde la corrección";
         }
     }
 }
