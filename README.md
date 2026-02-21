@@ -9,5 +9,5 @@ El objetivo es aplicar el uso de GIT, GITHUB, ramas, merge, pull requests, resol
 1. Julian Clavijo Restrepo
 2. Samuel Metaute Restrepo
 3. Nicolás Perez Tabares
-4. Brayan Sanabria Ramirez
-5. Maria Isabel Tabares Franco.
+4. Brayan Antonio Sanabria Ramirez
+5. Maria Isabel Tabares Franco
