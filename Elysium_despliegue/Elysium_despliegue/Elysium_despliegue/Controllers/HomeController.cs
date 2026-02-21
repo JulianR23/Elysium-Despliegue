@@ -9,7 +9,7 @@ namespace Elysium_despliegue.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Nuevo mensaje corregido";
+            return "Mensaje 2 de resolucion de conflictos visual studio samuel";
         }
     }
 }
