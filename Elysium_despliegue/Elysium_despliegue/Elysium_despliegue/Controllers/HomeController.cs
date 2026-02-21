@@ -9,7 +9,7 @@ namespace Elysium_despliegue.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Hello World desde la nueva funcionalidad";
+            return "Nuevo mensaje desde la corrección";
         }
     }
 }
